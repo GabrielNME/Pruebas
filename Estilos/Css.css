@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    color: blue;
+}
+
+ul{
+    display: inline-block;
+    margin-right: 100px;
+    color: red;
+}
+
+footer{
+    background-color: orange;
+}
